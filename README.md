@@ -25,6 +25,8 @@ The baseline is **Unity 6 / current Unity 6 API naming**. Older Unity versions c
 | Learn the overall structure | [Unity Fundamentals](docs/fundamentals.md) |
 | C# scripts and lifecycle | [Scripting](docs/scripting.md) |
 | Core Unity API | [Core API](docs/api-core.md) |
+| Inspector component lookup | [Component Catalog](docs/components.md) |
+| Unity Editor / project setup | [Editor Workflow](docs/editor-workflow.md) |
 | Build a 2D game | [2D Overview](docs/2d-overview.md) |
 | 2D physics / collision | [2D Physics](docs/2d-physics.md) |
 | Sprites / Tilemaps | [2D Graphics](docs/2d-graphics.md) |

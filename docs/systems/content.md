@@ -175,4 +175,4 @@ Do not expect a prefab asset to behave like the scene instance that was instanti
 
 ## Related
 
-[fundamentals.md](fundamentals.md) · [scripting.md](scripting.md) · [performance.md](performance.md)
+[fundamentals.md](../getting-started/fundamentals.md) · [scripting.md](../scripting/scripting.md) · [performance.md](../quality/performance.md)

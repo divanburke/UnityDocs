@@ -133,4 +133,4 @@ One AudioSource cannot conveniently represent every simultaneous sound. For repe
 
 ## Related
 
-[content.md](content.md) · [performance.md](performance.md) · [debugging.md](debugging.md)
+[content.md](content.md) · [performance.md](../quality/performance.md) · [debugging.md](../quality/debugging.md)

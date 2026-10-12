@@ -171,4 +171,4 @@ A visually front object does not have to be physically “in front”. Keep rend
 
 ## Related
 
-[2d-overview.md](2d-overview.md) · [2d-physics.md](2d-physics.md) · [animation.md](animation.md) · [3d-rendering.md](3d-rendering.md)
+[2d-overview.md](overview.md) · [2d-physics.md](physics.md) · [animation.md](../systems/animation.md) · [3d-rendering.md](../3d/rendering.md)

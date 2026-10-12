@@ -218,4 +218,4 @@ For different aspect ratios:
 
 ## Related
 
-[input.md](input.md) · [content.md](content.md) · [performance.md](performance.md)
+[input.md](input.md) · [content.md](content.md) · [performance.md](../quality/performance.md)

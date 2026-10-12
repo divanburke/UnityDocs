@@ -245,4 +245,4 @@ Do not paste package code into a project before understanding who owns the depen
 
 ## Related
 
-[fundamentals.md](fundamentals.md) · [debugging.md](debugging.md) · [content.md](content.md) · [input.md](input.md)
+[fundamentals.md](fundamentals.md) · [debugging.md](../quality/debugging.md) · [content.md](../systems/content.md) · [input.md](../systems/input.md)

@@ -227,4 +227,4 @@ Vector2 worldRight = transform.right;
 
 ## Related
 
-[api-core.md](api-core.md) · [2d-physics.md](2d-physics.md) · [3d-physics.md](3d-physics.md)
+[api-core.md](../api/core.md) · [2d-physics.md](../2d/physics.md) · [3d-physics.md](../3d/physics.md)

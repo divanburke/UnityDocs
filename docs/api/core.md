@@ -212,4 +212,4 @@ private void Awake()
 }
 ~~~
 
-See [performance.md](performance.md) for why repeated lookups and allocations matter.
+See [performance.md](../quality/performance.md) for why repeated lookups and allocations matter.

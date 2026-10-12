@@ -164,4 +164,4 @@ They are data assets, not replacements for ordinary scene objects.
 
 ## Related
 
-[scripting.md](scripting.md) · [api-core.md](api-core.md) · [content.md](content.md) · [math.md](math.md)
+[scripting.md](../scripting/scripting.md) · [api-core.md](../api/core.md) · [content.md](../systems/content.md) · [math.md](../systems/math.md)

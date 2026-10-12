@@ -329,4 +329,4 @@ A larger controller can still coordinate systems, but keep reusable responsibili
 
 ## Related
 
-[fundamentals.md](fundamentals.md) · [api-core.md](api-core.md) · [2d-physics.md](2d-physics.md) · [3d-physics.md](3d-physics.md)
+[fundamentals.md](../getting-started/fundamentals.md) · [api-core.md](core.md) · [2d-physics.md](../2d/physics.md) · [3d-physics.md](../3d/physics.md)

@@ -185,4 +185,4 @@ Hashes avoid repeated string lookup and make parameter IDs explicit.
 
 ## Related
 
-[3d-overview.md](3d-overview.md) · [2d-graphics.md](2d-graphics.md) · [scripting.md](scripting.md)
+[3d-overview.md](../3d/overview.md) · [2d-graphics.md](../2d/graphics.md) · [scripting.md](../scripting/scripting.md)

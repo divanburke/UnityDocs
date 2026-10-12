@@ -252,4 +252,4 @@ When a fix works:
 
 ## Related
 
-[scripting.md](scripting.md) · [performance.md](performance.md) · [2d-physics.md](2d-physics.md) · [3d-physics.md](3d-physics.md)
+[scripting.md](../scripting/scripting.md) · [performance.md](performance.md) · [2d-physics.md](../2d/physics.md) · [3d-physics.md](../3d/physics.md)

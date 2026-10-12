@@ -215,4 +215,4 @@ Physics updates are simulation steps, not render frames. Apply force and read/up
 
 ## Related
 
-[3d-overview.md](3d-overview.md) · [math.md](math.md) · [debugging.md](debugging.md) · [performance.md](performance.md)
+[3d-overview.md](overview.md) · [math.md](../systems/math.md) · [debugging.md](../quality/debugging.md) · [performance.md](../quality/performance.md)

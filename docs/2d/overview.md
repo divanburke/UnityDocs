@@ -195,4 +195,4 @@ A tilemap with a TilemapCollider2D can be combined with CompositeCollider2D for 
 
 ## Related
 
-[2d-physics.md](2d-physics.md) · [2d-graphics.md](2d-graphics.md) · [input.md](input.md) · [math.md](math.md)
+[2d-physics.md](physics.md) · [2d-graphics.md](graphics.md) · [input.md](../systems/input.md) · [math.md](../systems/math.md)

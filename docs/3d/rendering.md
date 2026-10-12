@@ -186,4 +186,4 @@ LOD works best when differences are visually small at the switch distances.
 
 ## Related
 
-[3d-overview.md](3d-overview.md) · [performance.md](performance.md) · [debugging.md](debugging.md)
+[3d-overview.md](overview.md) · [performance.md](../quality/performance.md) · [debugging.md](../quality/debugging.md)

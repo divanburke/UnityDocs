@@ -22,28 +22,29 @@ The baseline is **Unity 6 / current Unity 6 API naming**. Older Unity versions c
 
 | Need | Read |
 |---|---|
-| Learn the overall structure | [Unity Fundamentals](docs/fundamentals.md) |
-| C# scripts and lifecycle | [Scripting](docs/scripting.md) |
-| Core Unity API | [Core API](docs/api-core.md) |
-| Inspector component lookup | [Component Catalog](docs/components.md) |
-| Unity Editor / project setup | [Editor Workflow](docs/editor-workflow.md) |
-| Build a 2D game | [2D Overview](docs/2d-overview.md) |
-| 2D physics / collision | [2D Physics](docs/2d-physics.md) |
-| Sprites / Tilemaps | [2D Graphics](docs/2d-graphics.md) |
-| Build a 3D game | [3D Overview](docs/3d-overview.md) |
-| 3D physics / collision | [3D Physics](docs/3d-physics.md) |
-| Rendering / cameras / materials | [3D Rendering](docs/3d-rendering.md) |
-| Input | [Input](docs/input.md) |
-| UI | [UI](docs/ui.md) |
-| Scenes / prefabs / assets | [Content](docs/content.md) |
-| Animation | [Animation](docs/animation.md) |
-| AI / navigation | [AI & Navigation](docs/ai-navigation.md) |
-| Audio | [Audio](docs/audio.md) |
-| Math / vectors / rotations | [Math](docs/math.md) |
-| Performance | [Performance](docs/performance.md) |
-| Debugging | [Debugging](docs/debugging.md) |
-| Common recipes | [Recipes](docs/recipes.md) |
-| Quick API lookup | [API Quick Reference](docs/api-quick-reference.md) |
+| Browse the full documentation map | [Documentation Index](docs/README.md) |
+| Learn the overall structure | [Unity Fundamentals](docs/getting-started/fundamentals.md) |
+| C# scripts and lifecycle | [Scripting](docs/scripting/scripting.md) |
+| Core Unity API | [Core API](docs/api/core.md) |
+| Inspector component lookup | [Component Catalog](docs/api/components.md) |
+| Unity Editor / project setup | [Editor Workflow](docs/getting-started/editor-workflow.md) |
+| Build a 2D game | [2D Overview](docs/2d/overview.md) |
+| 2D physics / collision | [2D Physics](docs/2d/physics.md) |
+| Sprites / Tilemaps | [2D Graphics](docs/2d/graphics.md) |
+| Build a 3D game | [3D Overview](docs/3d/overview.md) |
+| 3D physics / collision | [3D Physics](docs/3d/physics.md) |
+| Rendering / cameras / materials | [3D Rendering](docs/3d/rendering.md) |
+| Input | [Input](docs/systems/input.md) |
+| UI | [UI](docs/systems/ui.md) |
+| Scenes / prefabs / assets | [Content](docs/systems/content.md) |
+| Animation | [Animation](docs/systems/animation.md) |
+| AI / navigation | [AI & Navigation](docs/systems/ai-navigation.md) |
+| Audio | [Audio](docs/systems/audio.md) |
+| Math / vectors / rotations | [Math](docs/systems/math.md) |
+| Performance | [Performance](docs/quality/performance.md) |
+| Debugging | [Debugging](docs/quality/debugging.md) |
+| Common recipes | [Recipes](docs/recipes/recipes.md) |
+| Quick API lookup | [API Quick Reference](docs/api/quick-reference.md) |
 
 ## How to use these docs
 
@@ -104,26 +105,21 @@ Primary reference: https://docs.unity3d.com/
 
 ---
 
-## Directory
+## Repository structure
 
+The documentation is grouped by subject so related topics stay together:
+
+```text
 docs/
-- fundamentals.md — scenes, GameObjects, components, prefabs, coordinate spaces
-- scripting.md — C# scripts, lifecycle, serialization, references
-- api-core.md — core UnityEngine API tables
-- 2d-overview.md — 2D architecture
-- 2d-physics.md — Rigidbody2D, colliders, joints, queries
-- 2d-graphics.md — sprites, Tilemaps, sorting, 2D animation
-- 3d-overview.md — 3D architecture
-- 3d-physics.md — Rigidbody, colliders, joints, queries
-- 3d-rendering.md — cameras, lights, materials, render pipeline concepts
-- input.md — Input System and practical bindings
-- ui.md — Canvas UI and UI Toolkit
-- content.md — scenes, prefabs, assets, Resources/addressable concepts
-- animation.md — Animator, parameters, state machines, animation events
-- ai-navigation.md — NavMesh and NavMeshAgent
-- audio.md — AudioSource, AudioListener, mixers and common patterns
-- math.md — Vector2/3, Quaternion, Mathf, interpolation, directions
-- performance.md — CPU/GPU, allocations, physics, rendering and profiling
-- debugging.md — Console, assertions, gizmos and common errors
-- recipes.md — complete game-dev patterns
-- api-quick-reference.md — fast lookup tables
+├── README.md                  # Topic index
+├── getting-started/           # Fundamentals and project setup
+├── 2d/                        # 2D game development, physics, graphics
+├── 3d/                        # 3D game development, physics, rendering
+├── scripting/                 # C# scripts and component design
+├── api/                       # Core API, component catalog, quick reference
+├── systems/                   # Input, UI, animation, audio, AI, assets, math
+├── quality/                   # Debugging and performance
+└── recipes/                   # Complete reusable patterns
+```
+
+Open [the documentation index](docs/README.md) for a topic-by-topic guide.

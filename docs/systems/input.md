@@ -215,4 +215,4 @@ Older tutorials use <code>Input.GetAxis</code>, <code>Input.GetButton</code> and
 
 ## Related
 
-[2d-physics.md](2d-physics.md) · [3d-physics.md](3d-physics.md) · [scripting.md](scripting.md)
+[2d-physics.md](../2d/physics.md) · [3d-physics.md](../3d/physics.md) · [scripting.md](../scripting/scripting.md)

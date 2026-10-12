@@ -279,4 +279,4 @@ Prefer meaningful field names and explicit assumptions.
 
 ## Related
 
-[fundamentals.md](fundamentals.md) · [api-core.md](api-core.md) · [debugging.md](debugging.md) · [performance.md](performance.md)
+[fundamentals.md](../getting-started/fundamentals.md) · [api-core.md](../api/core.md) · [debugging.md](../quality/debugging.md) · [performance.md](../quality/performance.md)

@@ -187,4 +187,4 @@ Keep data and systems modular. A player should not become a 2,000-line controlle
 
 ## Related
 
-[3d-physics.md](3d-physics.md) · [3d-rendering.md](3d-rendering.md) · [animation.md](animation.md) · [ai-navigation.md](ai-navigation.md)
+[3d-physics.md](physics.md) · [3d-rendering.md](rendering.md) · [animation.md](../systems/animation.md) · [ai-navigation.md](../systems/ai-navigation.md)

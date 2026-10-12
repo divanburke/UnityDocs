@@ -207,4 +207,4 @@ Avoid keeping every long clip fully resident without a reason.
 
 ## Related
 
-[debugging.md](debugging.md) · [2d-physics.md](2d-physics.md) · [3d-rendering.md](3d-rendering.md)
+[debugging.md](debugging.md) · [2d-physics.md](../2d/physics.md) · [3d-rendering.md](../3d/rendering.md)

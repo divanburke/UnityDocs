@@ -325,4 +325,4 @@ For a new project, the Input System page in this handbook shows how to replace l
 
 ## Related
 
-[2d-overview.md](2d-overview.md) · [input.md](input.md) · [debugging.md](debugging.md) · [performance.md](performance.md)
+[2d-overview.md](overview.md) · [input.md](../systems/input.md) · [debugging.md](../quality/debugging.md) · [performance.md](../quality/performance.md)

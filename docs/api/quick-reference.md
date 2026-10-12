@@ -235,4 +235,4 @@ Check your installed Unity version and package version when a method/property do
 
 ## Related
 
-[api-core.md](api-core.md) · [2d-physics.md](2d-physics.md) · [3d-physics.md](3d-physics.md)
+[api-core.md](core.md) · [2d-physics.md](../2d/physics.md) · [3d-physics.md](../3d/physics.md)

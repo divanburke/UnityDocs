@@ -451,4 +451,4 @@ When a small recipe works, turn it into a named component with a single responsi
 
 ## Related
 
-[api-quick-reference.md](api-quick-reference.md) · [scripting.md](scripting.md) · [debugging.md](debugging.md)
+[api-quick-reference.md](../api/quick-reference.md) · [scripting.md](../scripting/scripting.md) · [debugging.md](../quality/debugging.md)
